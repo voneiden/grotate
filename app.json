@@ -1,0 +1,14 @@
+{
+  "name": "grotate",
+  "description": "A tool to rotate gcode around a custom origin",
+  "keywords": [
+    "gcode",
+    "rotation"
+  ],
+  "repository": "https://github.com/voneiden/grotate",
+  "logo": "https://dl.dropboxusercontent.com/u/1803181/essential-react-logo.png",
+  "env": {
+    "PRODUCTION": "true",
+    "NPM_CONFIG_PRODUCTION": "false"
+  }
+}
